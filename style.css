@@ -9,3 +9,16 @@ body {
 #heeheeha {
     color: white
 }
+
+.eeeeee:hover {
+    transform: rotate(720deg);
+}
+
+.eeeeee {
+    font-style: underline;
+    color: Blue;
+    display: inline-block; 
+    transition: transform 1s;
+    transform: rotate(0deg); 
+    text-decoration: underline;
+}
